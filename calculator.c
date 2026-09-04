@@ -1,4 +1,4 @@
-#include studio.h
+#include <studio.h>
 int main(){
     double a; b; n; char e;
     printf("Eded1 emel eded2:  ");
